@@ -1,7 +1,6 @@
 dummy/
 dsLogCSV/
 
-files.txt
-claude.txt
+*.txt
 
 .env
