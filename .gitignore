@@ -1,4 +1,7 @@
 dummy/
 dsLogCSV/
 
+files.txt
+claude.txt
+
 .env
