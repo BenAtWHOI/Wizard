@@ -1,0 +1,10 @@
+API_KEY=
+OVERRIDE_LIMIT=false
+PROMPT="Please analyze the following files that are provided to you. Provide a short summary of the system and how the components interact with each other. Each section represents a file, the first line of each section is the filename and everything below that being the file contents. The sections are separated by lines with 100 equal sign characters."
+
+FILE_LIMIT=100
+DIRECTORY=path/to/somewhere
+INCLUDE_FILES=*.py,*.csv,*.txt
+
+MAX_LINES=100
+LIMIT_LINES_FILES=*.csv,*.txt
